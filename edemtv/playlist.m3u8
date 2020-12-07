@@ -1340,54 +1340,54 @@ http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6407/index.m3u8
 #EXTINF:0 tvg-rec="0",Sporta Centrs HD
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6408/index.m3u8
-#EXTINF:0 tvg-rec="0",TV1 HD LT
-#EXTGRP:другие
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6409/index.m3u8
 #EXTINF:0 tvg-rec="0",3 PLUS EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7176/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1 HD LT
+#EXTGRP:другие
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6409/index.m3u8
 #EXTINF:0 tvg-rec="0",RigaTV 24 LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6410/index.m3u8
 #EXTINF:0 tvg-rec="0",ETV Plus EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7177/index.m3u8
-#EXTINF:0 tvg-rec="0",TV3 LV
-#EXTGRP:другие
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6411/index.m3u8
 #EXTINF:0 tvg-rec="0",KANAL11 EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7178/index.m3u8
-#EXTINF:0 tvg-rec="0",KANAL12 EE
+#EXTINF:0 tvg-rec="0",TV3 LV
 #EXTGRP:другие
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7179/index.m3u8
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6411/index.m3u8
 #EXTINF:0 tvg-rec="0",TV3 HD LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6412/index.m3u8
+#EXTINF:0 tvg-rec="0",KANAL12 EE
+#EXTGRP:другие
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7179/index.m3u8
 #EXTINF:0 tvg-rec="0",TV3 Life HD LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6413/index.m3u8
 #EXTINF:0 tvg-rec="0",PBK EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7180/index.m3u8
-#EXTINF:0 tvg-rec="0",TV3 HD EE
-#EXTGRP:другие
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7181/index.m3u8
 #EXTINF:0 tvg-rec="0",TV3 Mini HD LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6414/index.m3u8
+#EXTINF:0 tvg-rec="0",TV3 HD EE
+#EXTGRP:другие
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7181/index.m3u8
 #EXTINF:0 tvg-rec="0",TV6 LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6415/index.m3u8
 #EXTINF:0 tvg-rec="0",TV6 HD EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7182/index.m3u8
-#EXTINF:0 tvg-rec="0",TV6 HD LV
-#EXTGRP:другие
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6416/index.m3u8
 #EXTINF:0 tvg-rec="0",TVPLAYSPORTS EE
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7183/index.m3u8
+#EXTINF:0 tvg-rec="0",TV6 HD LV
+#EXTGRP:другие
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6416/index.m3u8
 #EXTINF:0 tvg-rec="0",TV3 sport LV
 #EXTGRP:другие
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6417/index.m3u8
@@ -3140,12 +3140,12 @@ http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6227/index.m3u8
 #EXTINF:0 tvg-rec="0",Lesbian Red TV
 #EXTGRP:взрослые
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6228/index.m3u8
-#EXTINF:0 tvg-rec="0",Lethal Hardcore
-#EXTGRP:взрослые
-http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6229/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperONE HD RO
 #EXTGRP:взрослые
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/7001/index.m3u8
+#EXTINF:0 tvg-rec="0",Lethal Hardcore
+#EXTGRP:взрослые
+http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6229/index.m3u8
 #EXTINF:0 tvg-rec="0",Little Asians HD
 #EXTGRP:взрослые
 http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6230/index.m3u8
